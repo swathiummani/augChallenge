@@ -1,0 +1,7 @@
+E:\VsProjects\AugChallenge\AugChallengeTest\bin\Debug\AugChallengeTest.dll
+E:\VsProjects\AugChallenge\AugChallengeTest\bin\Debug\AugChallengeTest.pdb
+E:\VsProjects\AugChallenge\AugChallengeTest\bin\Debug\AugChallenge.exe
+E:\VsProjects\AugChallenge\AugChallengeTest\bin\Debug\AugChallenge.pdb
+E:\VsProjects\AugChallenge\AugChallengeTest\obj\Debug\AugChallengeTest.csprojResolveAssemblyReference.cache
+E:\VsProjects\AugChallenge\AugChallengeTest\obj\Debug\AugChallengeTest.dll
+E:\VsProjects\AugChallenge\AugChallengeTest\obj\Debug\AugChallengeTest.pdb
